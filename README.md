@@ -1,13 +1,13 @@
 # ManChang_BarcodeScanner
-Shite BarcodeScanner/Library Management system with Shite GUI
+Shite BarcodeScanner/Library Management system with Shite GUI  
+  
+Requires OpenCV and pyZbar (and zbar).  
 
-Requires OpenCV and pyZbar (and zbar).
+Actual Library Management System (Borrow and Return) : Main.py</br>
+Add Books to List: barcodescanner3.py  
 
-Actual Library Management System (Borrow and Return) : Main.py
-Add Books to List: barcodescanner3.py
+Barcodes are appended to barcodes.csv.</br>
+run RemoveDupe.py to remove duplicate entries in the csv file.  
 
-Barcodes are appended to barcodes.csv.
-run RemoveDupe.py to remove duplicate entries in the csv file.
-
-Book data comes from the korean national library. Thus, an internet connection is required to scan books.
+Book data comes from the korean national library. Thus, an internet connection is required to scan books.</br>
 Internet connection is not required to run the management program.
