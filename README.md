@@ -1,7 +1,7 @@
 # ManChang_BarcodeScanner
 Shite BarcodeScanner/Library Management system with Shite GUI  
   
-Requires OpenCV and pyZbar (and zbar).  
+Requires OpenCV and pyZbar (and zbar), imutils and pandas.
 
 Actual Library Management System (Borrow and Return) : Main.py</br>
 Add Books to List: barcodescanner3.py  
